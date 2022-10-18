@@ -9,9 +9,7 @@
 .history
 .svn/
 migrate_working_dir/
-build
-dart_tool
-.idea
+
 # IntelliJ related
 *.iml
 *.ipr
